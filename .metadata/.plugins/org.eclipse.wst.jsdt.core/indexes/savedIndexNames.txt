@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+E:\Desktop Copy\faculty_management_system\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2153584083.index
+2752680385.index
+1768361664.index
+1828026965.index
+806652859.index

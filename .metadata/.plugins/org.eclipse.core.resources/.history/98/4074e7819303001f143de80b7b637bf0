@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body background='home.jpg' style="background-repeat:no-repeat;background-size:cover;color:white">
+ <div style="margin-top:250px">
+ <h1 align="center"><i>Delete Faculty details</i></h1><br>
+    <form align="center" style="padding-left:45px;" action="Delete" method="post" style="font-size:25px;border-radius:5px;height:25px;">
+     Faculty Id : <input type="text" name="facId" style="border-radius:5px;height:25px;"><br>
+     <br><input type="submit" style="border-radius:5px;height:30px;"><br><br>
+     <div style="padding-left:70px;font-size:20px">back to home page<a href="home.html" style="color:#7FE9DE">clickhere</a></div><br>
+    </form>
+    
+    </div>
+</body>
+</html>

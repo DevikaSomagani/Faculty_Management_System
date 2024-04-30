@@ -1,0 +1,13 @@
+127.0.0.1 - - [26/May/2023:16:25:22 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [26/May/2023:16:25:29 +0530] "GET /Demo/home.html HTTP/1.1" 200 970
+0:0:0:0:0:0:0:1 - - [26/May/2023:16:25:48 +0530] "GET /Demo/image2.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/May/2023:16:25:48 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [26/May/2023:16:26:01 +0530] "GET /Demo/login.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/May/2023:16:26:25 +0530] "POST /Demo/Login HTTP/1.1" 200 672
+0:0:0:0:0:0:0:1 - - [26/May/2023:16:26:33 +0530] "GET /Demo/register.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/May/2023:16:26:33 +0530] "GET /Demo/register.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/May/2023:16:29:39 +0530] "GET /Demo/Register?id=504&name=Peddapangu+Sanjay&gender=Male&desi=proffessor+in+biotechnology&dob=2003-01-26&phno=9949685389&email=sanjaypeddapangu2002%40gmail.com&add=2-29%2Csc+colony%2Ckistapuram.ananthagiri%2Csuryapet%2Ctelangana%2C506208&edu=BTECH&we=4years HTTP/1.1" 200 98
+0:0:0:0:0:0:0:1 - - [26/May/2023:16:29:56 +0530] "GET /Demo/Register?id=504&name=Peddapangu+Sanjay&gender=Male&desi=proffessor+in+biotechnology&dob=2003-01-26&phno=9949685389&email=sanjaypeddapangu2002%40gmail.com&add=2-29%2Csc+colony%2Ckistapuram.ananthagiri%2Csuryapet%2Ctelangana%2C506208&edu=BTECH&we=4years HTTP/1.1" 200 98
+0:0:0:0:0:0:0:1 - - [26/May/2023:16:30:41 +0530] "POST /Demo/Login HTTP/1.1" 200 672
+0:0:0:0:0:0:0:1 - - [26/May/2023:16:30:54 +0530] "GET /Demo/List HTTP/1.1" 200 1085
+0:0:0:0:0:0:0:1 - - [26/May/2023:16:32:26 +0530] "GET /Demo/Register?id=504&name=Peddapangu+Sanjay&gender=Male&desi=proffessor+&dob=&phno=9949685389&email=sanjaypeddapangu2002%40gmail.com&add=2-29%2Csc+colony%2Ckistapuram.ananthagiri%2Csuryapet%2Ctelangana%2C506208&edu=btech&we=4years HTTP/1.1" 200 98
